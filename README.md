@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  ![Flutter](https://img.shields.io/badge/Flutter-3.38.7-02569B?logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-3.10.7-0175C2?logo=dart&logoColor=white)
-  ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-  ![Tests](https://img.shields.io/badge/Tests-15%20Passed-success)
-  ![Analysis](https://img.shields.io/badge/Flutter%20Analyze-Passed-success)
-  ![Build](https://img.shields.io/badge/Release%20APK-Built-success)
+  <img src="https://img.shields.io/badge/Flutter-3.38.7-02569B?logo=flutter&logoColor=white" alt="Flutter 3.38.7" />
+  <img src="https://img.shields.io/badge/Dart-3.10.7-0175C2?logo=dart&logoColor=white" alt="Dart 3.10.7" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Tests-15%20Passed-success" alt="15 tests passed" />
+  <img src="https://img.shields.io/badge/Flutter%20Analyze-Passed-success" alt="Flutter analysis passed" />
+  <img src="https://img.shields.io/badge/Release%20APK-Built-success" alt="Release APK built" />
 </p>
 
 ---
